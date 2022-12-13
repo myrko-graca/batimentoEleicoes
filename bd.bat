@@ -1,0 +1,1 @@
+sqlite\sqlite3.exe %1.db -init inicializa.sql
